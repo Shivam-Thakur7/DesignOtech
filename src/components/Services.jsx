@@ -7,28 +7,28 @@ const features = [
     title: 'AI-Powered Digit Recognition',
     description:
       'Instantly recognize handwritten digits with cutting-edge neural networks trained on MNIST and beyond.',
-    image: 'digit-ai.png',
+    image: 'v1.png',
     alt: 'AI Digit Recognition',
   },
   {
     title: 'Smart Accuracy Insights',
     description:
       'Get confidence scores and detailed breakdowns of predictions to understand AI decisions better.',
-    image: 'insight.png',
+    image: 'v2.png',
     alt: 'Prediction Insights',
   },
   {
-    title: 'Leaderboard Challenges',
+    title: 'Speech to text',
     description:
-      'Compete globally by testing your digits and climbing the accuracy leaderboard.',
-    image: 'leaderboard.png',
+      'Instantly convert spoken numbers into digits using advanced speech recognition technology.',
+    image: 'v3.png',
     alt: 'Leaderboard Gamification',
   },
   {
     title: 'Community Showcase',
     description:
       'Share your doodles, discover patterns from others, and explore the creativity of handwritten digits.',
-    image: 'community.png',
+    image: 'v4.png',
     alt: 'Community Sharing',
   },
 ];

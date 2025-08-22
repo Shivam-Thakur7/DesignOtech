@@ -6,7 +6,7 @@ const slides = [
   {
     title: 'Welcome to Digitify 🔢',
     description: "Let’s explore how Digitify recognizes your handwritten digits in seconds!",
-    videoSrc: '/digitify-intro.mp4',
+    videoSrc: '/b1.mp4',
   },
   {
     title: 'Draw & Predict ✍️',
