@@ -60,7 +60,7 @@ const Hero = () => {
         >
           <div className="rounded-t-[3rem] overflow-hidden p-4 bg-gradient-to-b from-cyan-500/20 to-purple-600/20 shadow-xl">
             <video
-              src="/digitify-demo.mp4"
+              src="/vid1.mp4"
               autoPlay
               loop
               muted
