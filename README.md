@@ -3,7 +3,7 @@
 
 Digitify is a web application that recognizes handwritten digits (0-9) using a trained Convolutional Neural Network (CNN).  
 Built with **React + Tailwind CSS** for the frontend and **Flask + TensorFlow** for the backend, Digitify bridges AI and user experience seamlessly.
-
+AI model link-[https://drive.google.com/file/d/1EvRkJ5aP7ffDDBv4qxEsPrEkPvfHonNk/view]
 ---
 
 ## 🚀 Features
