@@ -115,4 +115,5 @@ npm start
 
 ## 💡 Tagline
 **Digitify – Where Handwriting Meets Intelligence.**
-
+##CONTRIBUTOR 
+- PIYUSH wahi
